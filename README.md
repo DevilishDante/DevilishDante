@@ -9,22 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🚀 **Innovator**: Constantly exploring new technologies and frameworks to stay on the cutting edge of development.
 
 ## 🛠️ Skills
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
-    <ul>
-        <img style="margin: auto; border-radius: 15px; height: 450px; weight: auto" src="https://github.com/DevilishDante/DevilishDante/assets/13486924/aeb25a5b-c8a8-4f25-9ef6-4dcf928854a4" alt="stats languages"/>
-    </ul>
-
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <ul>
-      <li><strong>Languages</strong>: JavaScript, HTML, CSS, PHP, C, JAVA, SQL, Python, Bash, Bat.</li>
-      <li><strong>Frameworks & Libraries</strong>: React, Node.js, Express.</li>
-      <li><strong>Tools</strong>: Git, GitHub, VS Code, Vim, IntelliJ.</li>
-      <li><strong>Other</strong>: UI/UX Design, Chrome Extensions, RESTful APIs.</li>
-    </ul>
-  </div>
-</div>
+![Pastel Blue Gradient Budget Pie Chart Graph](https://github.com/DevilishDante/DevilishDante/assets/13486924/0e1ce839-ef55-4d62-a996-5968e1e91c81)
 
 ## 📫 Let's Connect
 

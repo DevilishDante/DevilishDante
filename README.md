@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🚀 **Innovator**: Constantly exploring new technologies and frameworks to stay on the cutting edge of development.
 
 ## 🛠️ Skills
-![Pastel Blue Gradient Budget Pie Chart Graph](https://github.com/DevilishDante/DevilishDante/assets/13486924/0e1ce839-ef55-4d62-a996-5968e1e91c81)
+![laangs graphs](https://github.com/DevilishDante/DevilishDante/assets/13486924/8ad73a11-f214-4f39-bf2f-3a323c7972f3)
 
 ## 📫 Let's Connect
 

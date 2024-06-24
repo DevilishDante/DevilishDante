@@ -11,12 +11,22 @@ software engineering, and creative coding. Here's a bit about me and what you'll
 
 ## 🛠️ Skills
 
+<div class="row">
+  <div class="col-md-8" markdown="1">
 - **Languages**: JavaScript, HTML, CSS, PHP, C, JAVA, SQL, Python, Bash, Bat.
 - **Frameworks & Libraries**: React, Node.js, Express.
 - **Tools**: Git, GitHub, VS Code, Vim, IntelliJ.
 - **Other**: UI/UX Design, Chrome Extensions, RESTful APIs.
-- 
-![languages_stats-removebg-preview](https://github.com/DevilishDante/DevilishDante/assets/13486924/d46c6c6c-dbc7-44ce-bd17-3e08c2780b29)
+  </div>
+  <div class="col-md-4" markdown="1">
+  ![languages_stats-removebg-preview](https://github.com/DevilishDante/DevilishDante/assets/13486924/d46c6c6c-dbc7-44ce-bd17-3e08c2780b29)
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
+
+
+  
+
 
 ## 📫 Let's Connect
 

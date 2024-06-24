@@ -1,7 +1,6 @@
 # 👋 Hello, I'm [DevilishDante](https://github.com/DevilishDante)!
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, 
-software engineering, and creative coding. Here's a bit about me and what you'll find in my repositories.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, software engineering, and creative coding. Here's a bit about me and what you'll find in my repositories.
 
 ## 🌟 About Me
 
@@ -10,23 +9,21 @@ software engineering, and creative coding. Here's a bit about me and what you'll
 - 🚀 **Innovator**: Constantly exploring new technologies and frameworks to stay on the cutting edge of development.
 
 ## 🛠️ Skills
-
-<div class="row">
-  <div class="col-md-8" markdown="1">
-- **Languages**: JavaScript, HTML, CSS, PHP, C, JAVA, SQL, Python, Bash, Bat.
-- **Frameworks & Libraries**: React, Node.js, Express.
-- **Tools**: Git, GitHub, VS Code, Vim, IntelliJ.
-- **Other**: UI/UX Design, Chrome Extensions, RESTful APIs.
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px;">
+    <ul>
+        <img src="https://github.com/DevilishDante/DevilishDante/assets/13486924/d46c6c6c-dbc7-44ce-bd17-3e08c2780b29" alt="stats languages"/>
+    </ul>
   </div>
-  <div class="col-md-4" markdown="1">
-  ![languages_stats-removebg-preview](https://github.com/DevilishDante/DevilishDante/assets/13486924/d46c6c6c-dbc7-44ce-bd17-3e08c2780b29)
-  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  <div style="flex: 1; padding: 10px;">
+    <ul>
+      <li><strong>Languages</strong>: JavaScript, HTML, CSS, PHP, C, JAVA, SQL, Python, Bash, Bat.</li>
+      <li><strong>Frameworks & Libraries</strong>: React, Node.js, Express.</li>
+      <li><strong>Tools</strong>: Git, GitHub, VS Code, Vim, IntelliJ.</li>
+      <li><strong>Other</strong>: UI/UX Design, Chrome Extensions, RESTful APIs.</li>
+    </ul>
   </div>
 </div>
-
-
-  
-
 
 ## 📫 Let's Connect
 

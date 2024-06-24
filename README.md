@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; padding: 10px;">
     <ul>
-        <img src="https://github.com/DevilishDante/DevilishDante/assets/13486924/aeb25a5b-c8a8-4f25-9ef6-4dcf928854a4" alt="stats languages"/>
+        <img style="margin: auto; border-radius: 15px; height: 350px; weight: auto" src="https://github.com/DevilishDante/DevilishDante/assets/13486924/aeb25a5b-c8a8-4f25-9ef6-4dcf928854a4" alt="stats languages"/>
     </ul>
 
   </div>

@@ -15,6 +15,8 @@ software engineering, and creative coding. Here's a bit about me and what you'll
 - **Frameworks & Libraries**: React, Node.js, Express.
 - **Tools**: Git, GitHub, VS Code, Vim, IntelliJ.
 - **Other**: UI/UX Design, Chrome Extensions, RESTful APIs.
+- 
+![languages_stats-removebg-preview](https://github.com/DevilishDante/DevilishDante/assets/13486924/d46c6c6c-dbc7-44ce-bd17-3e08c2780b29)
 
 ## 📫 Let's Connect
 

@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 Let's Connect
 
 - **Twitter**: [@DevilishDante](https://twitter.com/DevilishDante_)
-- **Email**: [contact@devilishdante.dev](mailto:devilishdante@outlook.fr)
+- **Email**: [devilishdante@outlook.fr](mailto:devilishdante@outlook.fr)
 
 Feel free to check out my repositories and connect with me if you have any questions or just want to chat about tech!
 

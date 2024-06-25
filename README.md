@@ -1,6 +1,4 @@
-# 👋 Hello, I'm [DevilishDante](https://github.com/DevilishDante)!
-![laangs graphs2](https://github.com/DevilishDante/DevilishDante/assets/13486924/4c843403-70bf-4959-9ff8-a2c733188f81)
-![laangs graphs](https://github.com/DevilishDante/DevilishDante/assets/13486924/8ad73a11-f214-4f39-bf2f-3a323c7972f3)
+![laangs graphs](https://github.com/DevilishDante/DevilishDante/assets/13486924/154009bd-b91a-4a94-a453-9f770d4f6253)
 
 ## 📫 Let's Connect
 
